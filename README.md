@@ -6,7 +6,7 @@ This project is part of my **Data Science Industrial Training at DecodeLabs (Bat
 
 The project focuses on building a **Supervised Learning Fraud Detection Pipeline** to identify fraudulent transactions in a highly imbalanced dataset. The required workflow includes SMOTE, Logistic Regression, Random Forest, and evaluation using Precision, Recall, and ROC-AUC.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 * **Python**
 * **Jupyter Notebook**
@@ -17,7 +17,7 @@ The project focuses on building a **Supervised Learning Fraud Detection Pipeline
 * **Matplotlib**
 * **Seaborn**
 
-## 💻 Development Environment
+##  Development Environment
 
 This project was developed and executed using **Jupyter Notebook**.
 
@@ -35,7 +35,7 @@ The complete machine learning workflow is implemented inside the Jupyter Noteboo
 10. Model evaluation
 11. Precision, Recall, and ROC-AUC analysis
 
-## 📓 Project Notebook
+##  Project Notebook
 
 ```text
 data-science-internship-project-2/
@@ -51,7 +51,7 @@ data-science-internship-project-2/
 
 > **Note:** The project is designed to be run in **Jupyter Notebook** rather than VS Code.
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -71,7 +71,7 @@ Through this project, I gained practical experience in:
 
 DecodeLabs identifies classification algorithms, Scikit-Learn pipelines, imbalanced-data handling, and hyperparameter tuning as key skills for this project.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -102,7 +102,7 @@ Fraud_Detection_Project_2.ipynb
 
 Then run the notebook cells sequentially.
 
-## 👨‍💻 Internship
+##  Internship
 
 **Data Science Industrial Training — DecodeLabs**
 **Batch:** 2026
@@ -110,11 +110,11 @@ Then run the notebook cells sequentially.
 
 This project represents practical experience gained during my Data Science internship/training at DecodeLabs.
 
-## 🔗 GitHub
+##  GitHub
 
 https://github.com/NaseerAhmed112/data-science-internship-project-2
 
-LinkedIn
+## LinkedIn
 www.linkedin.com/in/naseer-ahmed-559b90304
 
 
